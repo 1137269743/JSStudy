@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="#" method="post" id="frmInfo">
+        <div id="err" style="color: red">
+
+        </div>
+        <div>
+            姓名：<input id="name" name="name" />
+        </div>
+        <div>
+            身份证<input id="idno" name="idno" />
+        </div>
+
+        <div>
+            <input type="submit" />
+        </div>
+    </form>
+    <script type="text/javascript">
+        document.getElementById("frmInfo").onsubmit = function() {
+            let regex1 = /^[\u4e00-\u9fa5]{2,8}$/;
+            let regex2 = /^[1234568]\d{16}[0-9xX]/;
+            let name = document.getElementById("name").value;
+            let idno = document.getElementById("idno").value;
+            if (!regex1.test(name)){
+                document.getElementById("err").innerHTML = "无效姓名";
+                return false;
+            }
+            if (!regex2.test(idno)){
+                document.getElementById("err").innerHTML = "无效身份证号";
+                return false;
+            }
+            alert("校验通过")
+            return true;
+        }
+    </script>
+</body>
+</html>
