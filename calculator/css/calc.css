@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 170px;
+}
+#div1{
+    top: 60px;
+    left: 100px;
+    position: absolute;
+}
+input[type="button"]{
+    width: 30px;
+    margin-right: 5px;
+}
+input[type="text"]{
+    width: 150px;
+    text-align: right;
+    background-color: #fff;
+    border: 1px solid;
+    padding-right: 2px;
+    box-sizing: border-box;
+}
+input[type="button"]:hover{
+    background-color: cadetblue;
+    border: 1px solid;
+}
