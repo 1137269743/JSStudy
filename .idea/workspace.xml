@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ecf395f-7cd2-40ab-8bb8-25cf373054fd" name="Default Changelist" comment="" />
+    <list default="true" id="5ecf395f-7cd2-40ab-8bb8-25cf373054fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M-GALLARY/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -23,26 +31,30 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kgsI5MuPqXvGoEXG0w82qWTbP3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\Webfont\JSStudy\test\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Project\Webfont\JSStudy\calculator\css" />
       <recent name="E:\Project\Webfont\JSStudy\calculator\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Webfont\JSStudy" />
+      <recent name="E:\Project\Webfont\JSStudy\test\image" />
     </key>
   </component>
   <component name="RunManager">
@@ -67,7 +79,7 @@
       <workItem from="1606191529417" duration="2158000" />
       <workItem from="1606206858571" duration="4671000" />
       <workItem from="1606222700590" duration="10895000" />
-      <workItem from="1606267347076" duration="45000" />
+      <workItem from="1606267347076" duration="568000" />
     </task>
     <servers />
   </component>
@@ -83,6 +95,18 @@
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="981" y="232" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1739.978@0.0.1739.978" timestamp="1606233199212" />
+    <state x="793" y="226" key="FileChooserDialogImpl" timestamp="1606267409401">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="793" y="226" key="FileChooserDialogImpl/0.0.1739.978@0.0.1739.978" timestamp="1606267409401" />
+    <state x="889" y="382" key="Github.ShareDialog" timestamp="1606267775720">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="889" y="382" key="Github.ShareDialog/0.0.1739.978@0.0.1739.978" timestamp="1606267775720" />
+    <state x="852" y="189" key="Github.UntrackedFilesDialog" timestamp="1606267556116">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="852" y="189" key="Github.UntrackedFilesDialog/0.0.1739.978@0.0.1739.978" timestamp="1606267556116" />
     <state width="1369" height="246" key="GridCell.Tab.0.bottom" timestamp="1606211567899">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
